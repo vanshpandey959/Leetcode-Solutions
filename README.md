@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/vanshpandey959/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/vanshpandey959/Leetcode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/vanshpandey959/Leetcode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0283-move-zeroes](https://github.com/vanshpandey959/Leetcode-Solutions/tree/master/0283-move-zeroes) |
 | [0410-split-array-largest-sum](https://github.com/vanshpandey959/Leetcode-Solutions/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/vanshpandey959/Leetcode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0875-koko-eating-bananas](https://github.com/vanshpandey959/Leetcode-Solutions/tree/master/0875-koko-eating-bananas) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vanshpandey959/Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/vanshpandey959/Leetcode-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0189-rotate-array](https://github.com/vanshpandey959/Leetcode-Solutions/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/vanshpandey959/Leetcode-Solutions/tree/master/0283-move-zeroes) |
 ## Math
 |  |
 | ------- |
