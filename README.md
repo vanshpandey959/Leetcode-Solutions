@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/vanshpandey959/Leetcode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/vanshpandey959/Leetcode-Solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/vanshpandey959/Leetcode-Solutions/tree/master/0162-find-peak-element) |
+| [0169-majority-element](https://github.com/vanshpandey959/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/vanshpandey959/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/vanshpandey959/Leetcode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/vanshpandey959/Leetcode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/vanshpandey959/Leetcode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0169-majority-element](https://github.com/vanshpandey959/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/vanshpandey959/Leetcode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 ## Sliding Window
 |  |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/vanshpandey959/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/vanshpandey959/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/vanshpandey959/Leetcode-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/vanshpandey959/Leetcode-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -108,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/vanshpandey959/Leetcode-Solutions/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/vanshpandey959/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/vanshpandey959/Leetcode-Solutions/tree/master/0268-missing-number) |
 ## Quicksort
 |  |
@@ -117,4 +121,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/vanshpandey959/Leetcode-Solutions/tree/master/0075-sort-colors) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/vanshpandey959/Leetcode-Solutions/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/vanshpandey959/Leetcode-Solutions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
