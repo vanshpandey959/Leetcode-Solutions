@@ -3,14 +3,15 @@ public:
     int majorityElement(vector<int>& nums) {
         int n = nums.size();
 
-        int cnt = 1;
-        int candidate = nums[0];
+        int cnt = 0;
+        int candidate = -1;
 
-        for(int i=1; i<n; i++) {
+        for(int i=0; i<n; i++) {
             if(cnt == 0) {
                 candidate = nums[i];
+                cnt++;
             }
-            if(nums[i] == candidate) {
+            else if(nums[i] == candidate) {
                 cnt++;
             } else {
                 cnt--;
