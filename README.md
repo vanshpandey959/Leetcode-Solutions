@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/vanshpandey959/Leetcode-Solutions/tree/master/0451-sort-characters-by-frequency) |
+| [2278-percentage-of-letter-in-string](https://github.com/vanshpandey959/Leetcode-Solutions/tree/master/2278-percentage-of-letter-in-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/vanshpandey959/Leetcode-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Bit Manipulation
 |  |
