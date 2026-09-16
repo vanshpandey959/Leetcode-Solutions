@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/vanshpandey959/Leetcode-Solutions/tree/master/0119-pascals-triangle-ii) |
 | [0152-maximum-product-subarray](https://github.com/vanshpandey959/Leetcode-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0410-split-array-largest-sum](https://github.com/vanshpandey959/Leetcode-Solutions/tree/master/0410-split-array-largest-sum) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/vanshpandey959/Leetcode-Solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/vanshpandey959/Leetcode-Solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Greedy
 |  |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/vanshpandey959/Leetcode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0410-split-array-largest-sum](https://github.com/vanshpandey959/Leetcode-Solutions/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/vanshpandey959/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/vanshpandey959/Leetcode-Solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 ## Matrix
 |  |
 | ------- |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/vanshpandey959/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/vanshpandey959/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0836-rectangle-overlap](https://github.com/vanshpandey959/Leetcode-Solutions/tree/master/0836-rectangle-overlap) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/vanshpandey959/Leetcode-Solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2965-find-missing-and-repeated-values](https://github.com/vanshpandey959/Leetcode-Solutions/tree/master/2965-find-missing-and-repeated-values) |
 ## Sorting
 |  |
@@ -257,4 +260,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/vanshpandey959/Leetcode-Solutions/tree/master/0836-rectangle-overlap) |
+## Combinatorics
+|  |
+| ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/vanshpandey959/Leetcode-Solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 <!---LeetCode Topics End-->
