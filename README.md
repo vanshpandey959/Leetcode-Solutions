@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/vanshpandey959/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
 | [0451-sort-characters-by-frequency](https://github.com/vanshpandey959/Leetcode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [2278-percentage-of-letter-in-string](https://github.com/vanshpandey959/Leetcode-Solutions/tree/master/2278-percentage-of-letter-in-string) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/vanshpandey959/Leetcode-Solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -257,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/vanshpandey959/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/vanshpandey959/Leetcode-Solutions/tree/master/0234-palindrome-linked-list) |
 ## Geometry
 |  |
@@ -266,4 +268,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/vanshpandey959/Leetcode-Solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/vanshpandey959/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
