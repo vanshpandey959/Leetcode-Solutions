@@ -4,23 +4,21 @@ public:
         int n = s.size();
         stack<char> st;
         int add = 0;
+        int brac = 0;
 
         for(int i=0;i<n;i++) {
             if(s[i] == '(') {
-                st.push('(');
+                brac++;
             } else {
-                if(st.empty()) {
+                if(brac <= 0) {
                     add++;
                 } else {
-                    st.pop();
+                    brac--;
                 }
             }
         }
-        if(!st.empty()) {
-            while(!st.empty()) {
-                add++;
-                st.pop();
-            }
+        if(brac > 0) {
+            add += brac;
         }
         return add;
     }
