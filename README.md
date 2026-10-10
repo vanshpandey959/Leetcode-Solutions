@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1539-kth-missing-positive-number](https://github.com/vanshpandey959/Leetcode-Solutions/tree/master/1539-kth-missing-positive-number) |
 | [1901-find-a-peak-element-ii](https://github.com/vanshpandey959/Leetcode-Solutions/tree/master/1901-find-a-peak-element-ii) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/vanshpandey959/Leetcode-Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/vanshpandey959/Leetcode-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2367-number-of-arithmetic-triplets](https://github.com/vanshpandey959/Leetcode-Solutions/tree/master/2367-number-of-arithmetic-triplets) |
 | [2404-most-frequent-even-element](https://github.com/vanshpandey959/Leetcode-Solutions/tree/master/2404-most-frequent-even-element) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/vanshpandey959/Leetcode-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/vanshpandey959/Leetcode-Solutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1539-kth-missing-positive-number](https://github.com/vanshpandey959/Leetcode-Solutions/tree/master/1539-kth-missing-positive-number) |
 | [1901-find-a-peak-element-ii](https://github.com/vanshpandey959/Leetcode-Solutions/tree/master/1901-find-a-peak-element-ii) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/vanshpandey959/Leetcode-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/vanshpandey959/Leetcode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/vanshpandey959/Leetcode-Solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/vanshpandey959/Leetcode-Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/vanshpandey959/Leetcode-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/vanshpandey959/Leetcode-Solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Prefix Sum
 |  |
@@ -193,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/vanshpandey959/Leetcode-Solutions/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/vanshpandey959/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/vanshpandey959/Leetcode-Solutions/tree/master/0451-sort-characters-by-frequency) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/vanshpandey959/Leetcode-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Quicksort
 |  |
 | ------- |
@@ -227,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/vanshpandey959/Leetcode-Solutions/tree/master/0451-sort-characters-by-frequency) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/vanshpandey959/Leetcode-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Bucket Sort
 |  |
 | ------- |
