@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/vanshpandey959/Leetcode-Solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/vanshpandey959/Leetcode-Solutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1539-kth-missing-positive-number](https://github.com/vanshpandey959/Leetcode-Solutions/tree/master/1539-kth-missing-positive-number) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/vanshpandey959/Leetcode-Solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1901-find-a-peak-element-ii](https://github.com/vanshpandey959/Leetcode-Solutions/tree/master/1901-find-a-peak-element-ii) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/vanshpandey959/Leetcode-Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/vanshpandey959/Leetcode-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/vanshpandey959/Leetcode-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0410-split-array-largest-sum](https://github.com/vanshpandey959/Leetcode-Solutions/tree/master/0410-split-array-largest-sum) |
 | [0678-valid-parenthesis-string](https://github.com/vanshpandey959/Leetcode-Solutions/tree/master/0678-valid-parenthesis-string) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/vanshpandey959/Leetcode-Solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/vanshpandey959/Leetcode-Solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/vanshpandey959/Leetcode-Solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Greedy
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/vanshpandey959/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/vanshpandey959/Leetcode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0493-reverse-pairs](https://github.com/vanshpandey959/Leetcode-Solutions/tree/master/0493-reverse-pairs) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/vanshpandey959/Leetcode-Solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Sliding Window
 |  |
 | ------- |
@@ -199,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/vanshpandey959/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0633-sum-of-square-numbers](https://github.com/vanshpandey959/Leetcode-Solutions/tree/master/0633-sum-of-square-numbers) |
 | [0836-rectangle-overlap](https://github.com/vanshpandey959/Leetcode-Solutions/tree/master/0836-rectangle-overlap) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/vanshpandey959/Leetcode-Solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/vanshpandey959/Leetcode-Solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2965-find-missing-and-repeated-values](https://github.com/vanshpandey959/Leetcode-Solutions/tree/master/2965-find-missing-and-repeated-values) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/vanshpandey959/Leetcode-Solutions/tree/master/3723-maximize-sum-of-squares-of-digits) |
@@ -242,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/vanshpandey959/Leetcode-Solutions/tree/master/0128-longest-consecutive-sequence) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/vanshpandey959/Leetcode-Solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Simulation
 |  |
 | ------- |
@@ -317,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/vanshpandey959/Leetcode-Solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/vanshpandey959/Leetcode-Solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 ## Bracket Sequences
 |  |
@@ -338,4 +344,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/vanshpandey959/Leetcode-Solutions/tree/master/0301-remove-invalid-parentheses) |
+## Tree
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/vanshpandey959/Leetcode-Solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Binary Search Tree
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/vanshpandey959/Leetcode-Solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Memoization
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/vanshpandey959/Leetcode-Solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Binary Tree
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/vanshpandey959/Leetcode-Solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Fermat's Little Theorem
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/vanshpandey959/Leetcode-Solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 <!---LeetCode Topics End-->
