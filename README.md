@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1539-kth-missing-positive-number](https://github.com/vanshpandey959/Leetcode-Solutions/tree/master/1539-kth-missing-positive-number) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/vanshpandey959/Leetcode-Solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1901-find-a-peak-element-ii](https://github.com/vanshpandey959/Leetcode-Solutions/tree/master/1901-find-a-peak-element-ii) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/vanshpandey959/Leetcode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/vanshpandey959/Leetcode-Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/vanshpandey959/Leetcode-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2367-number-of-arithmetic-triplets](https://github.com/vanshpandey959/Leetcode-Solutions/tree/master/2367-number-of-arithmetic-triplets) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/vanshpandey959/Leetcode-Solutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1539-kth-missing-positive-number](https://github.com/vanshpandey959/Leetcode-Solutions/tree/master/1539-kth-missing-positive-number) |
 | [1901-find-a-peak-element-ii](https://github.com/vanshpandey959/Leetcode-Solutions/tree/master/1901-find-a-peak-element-ii) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/vanshpandey959/Leetcode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/vanshpandey959/Leetcode-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Dynamic Programming
 |  |
@@ -218,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/vanshpandey959/Leetcode-Solutions/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/vanshpandey959/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/vanshpandey959/Leetcode-Solutions/tree/master/0451-sort-characters-by-frequency) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/vanshpandey959/Leetcode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/vanshpandey959/Leetcode-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/vanshpandey959/Leetcode-Solutions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/vanshpandey959/Leetcode-Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
