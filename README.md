@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/vanshpandey959/Leetcode-Solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/vanshpandey959/Leetcode-Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/vanshpandey959/Leetcode-Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3886-sum-of-sortable-integers](https://github.com/vanshpandey959/Leetcode-Solutions/tree/master/3886-sum-of-sortable-integers) |
 ## Binary Search
 |  |
 | ------- |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/vanshpandey959/Leetcode-Solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2965-find-missing-and-repeated-values](https://github.com/vanshpandey959/Leetcode-Solutions/tree/master/2965-find-missing-and-repeated-values) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/vanshpandey959/Leetcode-Solutions/tree/master/3723-maximize-sum-of-squares-of-digits) |
+| [3886-sum-of-sortable-integers](https://github.com/vanshpandey959/Leetcode-Solutions/tree/master/3886-sum-of-sortable-integers) |
 ## Sorting
 |  |
 | ------- |
@@ -224,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2333-minimum-sum-of-squared-difference](https://github.com/vanshpandey959/Leetcode-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/vanshpandey959/Leetcode-Solutions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/vanshpandey959/Leetcode-Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3886-sum-of-sortable-integers](https://github.com/vanshpandey959/Leetcode-Solutions/tree/master/3886-sum-of-sortable-integers) |
 ## Quicksort
 |  |
 | ------- |
@@ -269,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2367-number-of-arithmetic-triplets](https://github.com/vanshpandey959/Leetcode-Solutions/tree/master/2367-number-of-arithmetic-triplets) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/vanshpandey959/Leetcode-Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3886-sum-of-sortable-integers](https://github.com/vanshpandey959/Leetcode-Solutions/tree/master/3886-sum-of-sortable-integers) |
 ## Binary Indexed Tree
 |  |
 | ------- |
