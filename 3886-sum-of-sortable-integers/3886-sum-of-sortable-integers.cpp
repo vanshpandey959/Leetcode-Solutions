@@ -1,57 +1,44 @@
 class Solution {
 public:
-    bool isRotationPossible(vector<int>& vec1, vector<int>& vec2) {
-        int k = vec1.size();
-        int decreasingPoints = 0, position = -1;
-        for(int j=0;j<k;j++) {
-            int a = vec1[j];
-            int b = vec1[(j+1) % k];
-
-            if(a > b) {
-                decreasingPoints++;
-                position = j;
-            }
-            if(decreasingPoints > 1) break;
-        }
-        if(decreasingPoints > 1) return false;
-        int startRotationPostion = (decreasingPoints == 0) ? 0 : (position + 1) %k;
-
-        for(int j=0;j<k;j++) {
-            if(vec1[(startRotationPostion + j) % k] != vec2[j]) {
-                return false;
-            }
-        }
-        return true;
-    }
-
     int sortableIntegers(vector<int>& nums) {
         int n = nums.size();
         vector<int> sorted = nums;
         sort(sorted.begin(), sorted.end());
-
         vector<int> divs;
-        for(int i=1;i<=n;i++) {
-            if(n % i == 0) {
+        for (int i = 1; i * i <= n; ++i) {
+            if (n % i == 0) {
                 divs.push_back(i);
+                if (i != n / i) divs.push_back(n / i);
             }
         }
-
         int ans = 0;
-        for(int k: divs) {
-            bool isSortable = true;
-            for(int s=0;s<n;s+=k) {
-                vector<int> vec1(nums.begin() + s, nums.begin() + s + k);
-                vector<int> vec2(sorted.begin() + s, sorted.begin() + s + k);
-
-                if(!isRotationPossible(vec1, vec2)) {
-                    isSortable = false;
+        for (int k : divs) {
+            bool ok = true;
+            for (int s = 0; s < n && ok; s += k) {
+                int desc = 0, pos = -1;
+                for (int j = 0; j < k; ++j) {
+                    int a = nums[s + j];
+                    int b = nums[s + (j + 1) % k];
+                    if (a > b) {
+                        ++desc;
+                        pos = j;
+                        if (desc > 1) break;
+                    }
+                }
+                if (desc > 1) {
+                    ok = false;
+                    break;
+                }
+                int r = (desc == 0) ? 0 : (pos + 1) % k;
+                for (int j = 0; j < k; ++j) {
+                    if (nums[s + (r + j) % k] != sorted[s + j]) {
+                        ok = false;
+                        break;
+                    }
                 }
             }
-            if(isSortable) {
-                ans += k;
-            }
+            if (ok) ans += k;
         }
-
         return ans;
     }
 };
