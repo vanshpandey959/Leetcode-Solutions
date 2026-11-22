@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/vanshpandey959/Leetcode-Solutions/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/vanshpandey959/Leetcode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0119-pascals-triangle-ii](https://github.com/vanshpandey959/Leetcode-Solutions/tree/master/0119-pascals-triangle-ii) |
+| [0131-palindrome-partitioning](https://github.com/vanshpandey959/Leetcode-Solutions/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/vanshpandey959/Leetcode-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0410-split-array-largest-sum](https://github.com/vanshpandey959/Leetcode-Solutions/tree/master/0410-split-array-largest-sum) |
 | [0678-valid-parenthesis-string](https://github.com/vanshpandey959/Leetcode-Solutions/tree/master/0678-valid-parenthesis-string) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/vanshpandey959/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/vanshpandey959/Leetcode-Solutions/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/vanshpandey959/Leetcode-Solutions/tree/master/0032-longest-valid-parentheses) |
+| [0131-palindrome-partitioning](https://github.com/vanshpandey959/Leetcode-Solutions/tree/master/0131-palindrome-partitioning) |
 | [0301-remove-invalid-parentheses](https://github.com/vanshpandey959/Leetcode-Solutions/tree/master/0301-remove-invalid-parentheses) |
 | [0451-sort-characters-by-frequency](https://github.com/vanshpandey959/Leetcode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0678-valid-parenthesis-string](https://github.com/vanshpandey959/Leetcode-Solutions/tree/master/0678-valid-parenthesis-string) |
@@ -389,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/vanshpandey959/Leetcode-Solutions/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/vanshpandey959/Leetcode-Solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/vanshpandey959/Leetcode-Solutions/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/vanshpandey959/Leetcode-Solutions/tree/master/0131-palindrome-partitioning) |
 | [0301-remove-invalid-parentheses](https://github.com/vanshpandey959/Leetcode-Solutions/tree/master/0301-remove-invalid-parentheses) |
 ## Breadth-First Search
 |  |
